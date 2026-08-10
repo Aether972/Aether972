@@ -1,7 +1,7 @@
 <!--
 ==========================================================
-  GITHUB PROFILE README — Tiger972
-  Repo: github.com/Tiger972/Tiger972
+  GITHUB PROFILE README — Aether972
+  Repo: github.com/Aether972/Aether972
   File: README.md (root)
   Positioning: AI / LLM Security & Red Teaming
 ==========================================================
@@ -142,11 +142,11 @@ open_to: AI security research, LLM red teaming, AI safety engineering (remote)
 
 <div align="center">
 
-<a href="https://github.com/Tiger972/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiger972&repo=REPO_NAME_1&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
+<a href="https://github.com/Aether972/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aether972&repo=REPO_NAME_1&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
 </a>
-<a href="https://github.com/Tiger972/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tiger972&repo=REPO_NAME_2&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
+<a href="https://github.com/Aether972/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aether972&repo=REPO_NAME_2&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
 </a>
 
 </div>
