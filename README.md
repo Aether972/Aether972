@@ -166,8 +166,7 @@ open_to: AI security research, LLM red teaming, AI safety engineering (remote)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aether972&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aether972&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&border_radius=8&title_color=A371F7" />
+<img src="https://github-readme-stats.shion.dev/api?username=Aether972&theme=midnight-purple&hide_border=false" />
 
 <br/><br/>
 
@@ -175,7 +174,11 @@ open_to: AI security research, LLM red teaming, AI safety engineering (remote)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aether972&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&line=A371F7&point=A371F7" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aether972&theme=github-compact&hide_border=true&area=true&days=90&custom_title=Contribution%20Graph&line=A371F7&point=A371F7" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aether972&theme=midnight-purple&hide_border=false&layout=compact&langs_count=6&hide=ruby,shell" />
 
 </div>
 
