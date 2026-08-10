@@ -140,16 +140,6 @@ open_to: AI security research, LLM red teaming, AI safety engineering (remote)
 
 ## Featured Work
 
-<div align="center">
-
-<a href="https://github.com/Aether972/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aether972&repo=REPO_NAME_1&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
-</a>
-<a href="https://github.com/Aether972/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aether972&repo=REPO_NAME_2&theme=github_dark&hide_border=true&border_radius=8&title_color=A371F7&icon_color=A371F7" />
-</a>
-
-</div>
 
 | Project | What it is |
 |---|---|
@@ -174,7 +164,7 @@ open_to: AI security research, LLM red teaming, AI safety engineering (remote)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aether972&theme=github-compact&hide_border=true&area=true&days=90&custom_title=Contribution%20Graph&line=A371F7&point=A371F7" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aether972&theme=github-compact&hide_border=true&area=true&day=90&custom_title=Contribution%20Graph&line=A371F7&point=A371F7" width="98%" />
 
 <br/><br/>
 
